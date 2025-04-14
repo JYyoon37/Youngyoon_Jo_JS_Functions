@@ -1,0 +1,53 @@
+/*this is a CSS reset*/
+body, h1, p{
+    margin:0;
+    padding:0;
+    border:0;
+}
+
+#container{
+    background-color: rgb(119, 255, 228);
+}
+h1{
+    font-family: "Frederika the Great", serif;
+    font-style:normal;
+    Font-size:2em;
+    color:rgb(22, 78, 4);
+    text-align: center;
+}
+h2{
+    font-family: "Frederika the Great", serif;
+    font-style:normal;
+    Font-size:2em;
+    color:rgb(191, 72, 4);
+    text-align: center;
+}
+h3{
+    font-family: "Frederika the Great", serif;
+    font-style:normal;
+    Font-size:2em;
+    color:rgb(37, 92, 103);
+    text-align: center;
+}
+u1{
+    font-size:1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+li{
+}
+p{color:rgb(24,12,160);
+    font-size:1.2em;
+}
+.first{
+    color:rgb(244, 193, 193);
+    font-size:1.5em;
+    background-color: black;
+}
+figure{
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+img{
+    border: 5px solid red;
+}
